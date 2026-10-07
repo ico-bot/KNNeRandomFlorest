@@ -1,0 +1,31 @@
+modelo,fold,reproduzido,configuracoes_empatadas_no_topo
+KNN,1,True,2
+KNN,2,True,4
+KNN,3,True,2
+KNN,4,True,2
+KNN,5,True,2
+KNN,6,True,2
+KNN,7,True,2
+KNN,8,True,2
+KNN,9,True,2
+KNN,10,True,2
+Random Forest,1,True,6
+Random Forest,2,True,8
+Random Forest,3,True,6
+Random Forest,4,True,4
+Random Forest,5,True,4
+Random Forest,6,True,4
+Random Forest,7,True,2
+Random Forest,8,True,4
+Random Forest,9,True,2
+Random Forest,10,True,4
+SVM,1,True,2
+SVM,2,True,1
+SVM,3,True,1
+SVM,4,True,5
+SVM,5,True,1
+SVM,6,True,1
+SVM,7,True,1
+SVM,8,True,1
+SVM,9,True,1
+SVM,10,True,1

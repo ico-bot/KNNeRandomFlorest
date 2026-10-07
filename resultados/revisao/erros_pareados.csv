@@ -1,0 +1,4 @@
+modelo_a,modelo_b,somente_a_acerta,somente_b_acerta,ambos_acertam,ambos_erram
+KNN,Random Forest,0,4,172,2
+KNN,SVM,2,4,170,2
+Random Forest,SVM,3,1,173,1
